@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación de consola desarrollada en **Kotlin** que permite gestionar un inventario de productos. El sistema permite realizar operaciones como agregar, consultar, modificar y eliminar productos, además de calcular el IVA total del inventario.
 
-## 🛠Funcionalidades
+## Funcionalidades
 
 - Agregar productos al inventario
 - Consultar todos los productos registrados
